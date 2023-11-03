@@ -1,0 +1,5 @@
+CONFIG_D=/etc/dehydrated/conf.d
+BASEDIR=/var/lib/dehydrated
+DOMAINS_TXT="/etc/dehydrated/domains.txt"
+WELLKNOWN="/home/letsencrypt/acme-challenges"
+#CA="https://acme-staging-v02.api.letsencrypt.org/directory"
